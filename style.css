@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(#ffffff,#f3f3f3,#b8b8b8,#8d8d8c,#504f4f);
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    background-color: white;
+}
+
+#result1{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    
+}
+
+#result2{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+#result3{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+#textbox
+{
+    width: 300px;
+}
